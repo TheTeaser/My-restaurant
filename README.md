@@ -1,3 +1,3 @@
 # My-restaurant
 
-![My Restaurant app](/mnt/c/Users/Rock/Desktop/Labs/Lab2/My-restaurant/Image/Capture.JPG)
+![My Restaurant app](https://www.imgup.cam/ib/LH8oQCSV0A.JPG)
